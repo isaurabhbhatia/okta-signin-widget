@@ -59,8 +59,8 @@
                         "label": "Local"
                       },
                       {
-                        "value": "sms",
-                        "label": "SMS"
+                        "value": "qrcode",
+                        "label": "QRcode"
                       },
                       {
                         "value": "email",
@@ -89,7 +89,8 @@
       "type": "app",
       "authenticatorInstanceId": "aidL86XHm5Xtg3SD0I1g",
       "contextualData": {
-        "selectedChannel": "sms"
+        "selectedChannel": "sms",
+        "phoneNumber": "+18008885555"
       }
     }
   },
